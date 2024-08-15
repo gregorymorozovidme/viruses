@@ -1,0 +1,27 @@
+{
+    "text_signatures": [
+        "This is a known malware string"
+    ],
+    "hex_signatures": [
+        "4D5A9000030000000400000000000000"
+    ],
+    "regex_signatures": [
+        "r\\x90\\x90\\x90\\x90"
+    ],
+    "md5_signatures": [
+        "c0e58474e8a8b84862b2ef50cfc7c799"
+    ],
+    "ssdeep_signatures": [
+        "6144:5KkBgVR6YX7pbXiXWLkaZ/GqHa6ZLxNcYUTcxYGjGFme7WAR:5mp7BXiXWw/p6ndUQGBW8"
+    ],
+    "sha256_signatures": [
+        "df7b92b717abe121fb536a0eeb8e323cc9153f70250656dfc670c9650776afa7",
+        "9d493ca16fda63c7dfc3d9ac7a64304594f921cf9e524bf27482d32da59e7bcd",
+        "00f4a3e1490412d6d09cce67d32a3f22276719a32aaff32cb646a0f685671242",
+        "a1d48085658f342ad2c03c13a47bbc07b009399c4bacd91694a69419649de14b",
+        "cba8d79949adc3c56c02fee56644f4084b7471bc5aed1c81803054f017240a72"
+    ],
+    "sha1_signatures": [
+        "70c013a12ff34bcef21fb9f06d4e017b5060e530"
+    ]
+}
